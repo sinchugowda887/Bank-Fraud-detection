@@ -11,8 +11,6 @@ Credit card fraud is highly imbalanced — fraudulent transactions make up less 
 ---
 
 ## Dataset
-
-- **Source:** [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Size:** 284,807 transactions, 492 fraudulent
 - **Features:** 30 features (V1–V28 are PCA-transformed, plus `Time` and `Amount`)
 - **Target:** `Class` (0 = legitimate, 1 = fraud)
