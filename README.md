@@ -1,8 +1,5 @@
 # Bank-Fraud-detection
 
-
-# Credit Card Fraud Detection
-
 A machine learning project that detects fraudulent credit card transactions using two approaches: a cost-sensitive XGBoost classifier and an Autoencoder-based anomaly detector.
 
 ---
